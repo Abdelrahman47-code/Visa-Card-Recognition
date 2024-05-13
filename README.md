@@ -1,7 +1,7 @@
 # Credit Cards Recognition - YOLOv9 🛍️
 🚀 Welcome to the Credit Cards Recognition project, powered by YOLOv9!
 
-![Image](https://www.fortunebuilders.com/wp-content/uploads/2021/08/Depositphotos_33718137_s-2019-min.jpg)
+![Image](cards_gif.gif)
 
 ## Overview ℹ️
 This project is my last task as an AI intern at the virtual internship from [TEKNOSOFT](https://www.linkedin.com/company/teknosoft). It aims to recognize credit cards and their components in images and videos using the YOLOv9 object detection model.
@@ -19,7 +19,7 @@ YOLOv9: Object detection model used in the project.
 ---
 
 ## Alhumdallah for Completing this Project 🤲
-- Explore the notebook on [Kaggle]() 🚀
+- Explore the notebook on [Kaggle](https://www.kaggle.com/code/abdelrahmanahmed110/credit-cards-recognition-yolov9) 🚀
 - Check out my website with a portfolio [Here](https://sites.google.com/view/abdelrahman-eldaba110) 🌟
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/abdelrahman-eldaba-739805192/) 🌐
 
