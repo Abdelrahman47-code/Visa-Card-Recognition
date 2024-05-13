@@ -7,7 +7,7 @@
 This project is my last task as an AI intern at the virtual internship from [TEKNOSOFT](https://www.linkedin.com/company/teknosoft). It aims to recognize credit cards and their components in images and videos using the YOLOv9 object detection model.
 
 ## Key Features 📊
-- Data Acquisition: Obtained credit card images from Roboflow Universe.
+- Data Acquisition: Obtained credit card images from [Roboflow Universe](https://universe.roboflow.com/search?q=visa%20card%20recognition).
 - Model Training: Trained YOLOv9 on the custom dataset with specified hyperparameters.
 - Inference: Performed inference on test data to evaluate model performance.
 - Results: Achieved high precision and recall, with visualizations of model predictions.
